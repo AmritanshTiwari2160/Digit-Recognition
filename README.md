@@ -13,11 +13,11 @@ Visualized sample images from the dataset to understand the data structure.
 Scaled the pixel values to the range [0, 1] for better model performance.
 
 3. Neural Network Architecture:<br/>
-Model Type: Sequential
-Layers:
-Flatten Layer: Converts each 28x28 image into a 784-dimensional vector.
-Dense Layer 1: 50 neurons, ReLU activation.
-Dense Layer 2: 50 neurons, ReLU activation.
+Model Type: Sequential<br/>
+Layers:<br/>
+Flatten Layer: Converts each 28x28 image into a 784-dimensional vector.<br/>
+Dense Layer 1: 50 neurons, ReLU activation.<br/>
+Dense Layer 2: 50 neurons, ReLU activation.<br/>
 Output Layer: 10 neurons, Sigmoid activation.
 
 4. Model Compilation:<br/>
