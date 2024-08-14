@@ -1,4 +1,4 @@
-# Digit Recognition Using Neural Networks on the MNIST Dataset
+# Handwritten Digit Recognition Using Neural Networks on the MNIST Dataset
 This project focuses on recognizing handwritten digits using a neural network trained on the MNIST dataset. The MNIST dataset is a widely-used benchmark for this task, containing 60,000 training images and 10,000 testing images of handwritten digits from 0 to 9.
 
 **Key Highlights:**
